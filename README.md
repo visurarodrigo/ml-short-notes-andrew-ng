@@ -18,9 +18,7 @@ These notes were created while learning the course and are intended as a quick r
 
 ## Download the Notes
 
-You can download the full PDF here:
-
-[Download Machine Learning Short Notes](Machine_Learning_Short_Notes.pdf)
+You can download the full PDF here: https://drive.google.com/file/d/1yxHyuKplIgpBvPSJaXgrXj85keAV_8sw/view?usp=sharing
 
 ## Author
 
